@@ -22,7 +22,7 @@ We will use Slack for open discussions. An invitation is sent to registered stud
 
 ### Course Description
 
-In this course, we will discuss recent advances in generative AI for biomedicine, with a special focus on geometric-aware deep learning, multimodal diffusion/flow matching on diverse data manifolds, and language models. We will also discuss foundational models for biomedicine and life sciences applications such as protein design, drug discovery, and understanding the functions and dynamics of complex biomolecular systems.
+In this course, we will discuss recent advances in generative AI for biomedicine, with a special focus on geometric-aware deep learning, multimodal diffusion/flow matching on diverse data manifolds, large language models(LLM) and agentic AI for science. We will also discuss foundational models for biomedicine and life sciences applications such as protein design, drug discovery, and understanding the functions and dynamics of complex biomolecular systems.
 
 **Learning Objectives:** This course will introduce generative model basics, their application in biomedicines, and other impactful research works. At the end of this course, you will be able to:
 
