@@ -2,12 +2,12 @@
 
 ### Course Console
 
-**Lectures**: 0220 Siebel Center for Computer Science, MW: 9:30 AM – 10:45 AM
+**Lectures**: 4039 Campus Instructional Facility, WF: 3:30 AM – 4:45 AM
 
 | **Member (NetID)** | **Role** | **Office Hours** |
 | --- | --- | --- |
-| Ge Liu (geliu) | Instructor | Mon 3:00-4:00 SC3212 |
-| Yanru Qu (yanruqu2) | TA | Mon 11-12 SC 3rd floor near elevator |
+| Ge Liu (geliu) | Instructor | Thu 3:00-4:00 SC3212 |
+| Yanru Qu (yanruqu2) | TA | TBD |
 
 **Canvas**: https://canvas.illinois.edu/courses/56424
 
@@ -35,11 +35,11 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 - 6 instructor lectures: we will first review the biology & generative model basics. See schedule
 - 1 project brainstorming session
 - 13 paper-reading lectures: we will select 13 research sub-topics and reading lists for students to read, present, and discuss, covering the following topics:
-    - Language models for biomedicine
+    - Large Language models (LLM) for biomedicine
     - Generative models for chemical molecules
     - Generative models for protein folding and design
-    - Complex-based design with generative models: Structure-based drug design, peptide, antibody, enzyme, and molecular docking
-    - RLHF/conditional generation/Guidance
+    - RL-finetuning of generative models
+    - Agentic AI for science and automated discovery
 - mid-term and final presentations
 
 ### Grading Policy
@@ -89,45 +89,45 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | **Date** | **Topic** | **Presenter** | **Reviewer** | **Note** |
 | --- | --- | --- | --- | --- |
 |  | **Course Introduction** |  |  |  |
-| Jan 22 | Intro + Biology101 | Prof. Liu |  |  |
-| Jan 27 | Diffusion | Prof. Liu  |  |  |
-| Jan 29 | Flow Models |  Prof. Liu |  |  |
-| Feb 3 | VAE  | Prof. Liu  |  | Group Membership & Topic Preference Due |
-| Feb 5 | Geometric DL & Equivariance |  Prof. Liu |  |  |
-| Feb 10 | Seq Model & Discrete Generation |  Prof. Liu |  |  |
-| Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
+| Jan 21 | Intro + Biology101 | Prof. Liu |  |  |
+| Jan 23 | Diffusion | Prof. Liu  |  |  |
+| Jan 28 | Flow Models |  Prof. Liu |  |  |
+| Feb 30 | Geometric DL & Equivariance | Prof. Liu  |  | Group Membership & Topic Preference Due |
+| Feb 4 | Diffusion Language Models |  Prof. Liu |  |  |
+| Feb 6 | Scientific LLMs and Agentic AI4science|  Prof. Liu |  |  |
+| Feb 11 | RL-finetuning and inference time scaling|  Prof. Liu |  |  |
+| Feb 13 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
-| Feb 17 | lecture 1: protein | G2 | G1 |  |
-| Feb 19 | lecture 2: protein & beyond | G6 | G3 |  |
-| Feb 24 | lecture 3: discrete generation | G10 | G2 |  |
-| Feb 26 | **Discussion for L1-L3** |  |  |  |
+| Feb 18 | lecture 1: protein | G2 | G1 |  |
+| Feb 20 | lecture 2: protein & beyond | G6 | G3 |  |
+| Feb 25 | lecture 3: discrete generation | G10 | G2 |  |
+| Feb 27 | **Discussion for L1-L3** |  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Mar 3 | lecture 4: 2d | G3 | G11 |  |
-| Mar 5 | lecture 5: 3d | G11 | G10 |  |
-| Mar 10 | lecture 6: 2d & 3d | G7 | G6 |  |
-| Mar 12 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
+| Mar 4 | lecture 4: 2d | G3 | G11 |  |
+| Mar 6 | lecture 5: 3d | G11 | G10 |  |
+| Mar 11 | lecture 6: 2d & 3d | G7 | G6 |  |
+| Mar 13 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
-| Mar 17 | No Lecture |  |  |  |
-| Mar 19 | No Lecture |  |  |  |
-| Mar 24 | **Mid term presentation** |  |  |  |
-| Mar 26 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
-|  | **Protein** |  |  |  |
-| Mar 31 | Guest Lecture on MSA | | |by Prof. [Tandy Warnow](https://tandy.cs.illinois.edu/) |
-| Apr 2 | lecture 7: folding inverse folding | G1 | G4 |  |
-| Apr 7 | lecture 8: structure gen | G5 | G8 |  |
-| Apr 9 | lecture 9: co-design | G9 | G5 |  |
-| Apr 14 | **Discussion on Protein design** |  |  |  |
+| Mar 18 | No Lecture |  |  |  |
+| Mar 20 | No Lecture |  |  |  |
+| Mar 25 | **Mid term presentation** |  |  |  |
+| Mar 27 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
+|  | **Protein Design** |  |  |  |
+| Apr 1 | Guest Lecture on Biomedical Agentic AI | | | |
+| Apr 3 | lecture 7: AlphaFold, protein folding | G1 | G4 |  |
+| Apr 8 | lecture 8: structure design | G5 | G8 |  |
+| Apr 10 | lecture 9: co-design | G9 | G5 |  |
+| Apr 15 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
-| Apr 16 | lecture 10: peptide and  antibody design |  |  |  |
-| Apr 21 | lecture 11: structure-based drug design | G4 | G7 | TA host, Instructor remote |
-|  | **RLHF/DPO/Guidance** |  |  |  |
-| Apr 23 | lecture 12 | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
-| Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
-| Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
+| Apr 17 | lecture 10: peptide and  antibody design |  |  |  |
+| Apr 22 | lecture 11: structure-based drug design | G4 | G7 | TA host, Instructor remote |
+|  | **RLHF and LLM Agent** |  |  |  |
+| Apr 24 | lecture 12: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
+| Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
+| May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
-| May 5 |  |  |  |  |
-| May 7 |  |  |  |  |
-| May 14 |  |  |  | Final Report due |
+| May 6 |  |  |  |  |
+| May 15 |  |  |  | Final Report due |
 
 ### Reading List
 
