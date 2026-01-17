@@ -1,4 +1,4 @@
-# CS598-GBL - Gen Mod for BioMed &amp; Life Sci
+# CS598-GBL - Generative Models for BioMedicine &amp; Life Science
 
 ### Course Console
 
