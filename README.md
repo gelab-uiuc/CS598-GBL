@@ -2,7 +2,7 @@
 
 ### Course Console
 
-**Lectures**: 4039 Campus Instructional Facility, WF: 3:30 AM – 4:45 AM
+**Lectures**: 4039 Campus Instructional Facility, WF: 3:30 PM – 4:45 PM
 
 | **Member (NetID)** | **Role** | **Office Hours** |
 | --- | --- | --- |
