@@ -103,9 +103,9 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 25 | lecture 1: Protein and Genome Language Models |  | |  |
 | Feb 27 | lecture 2: Scientific LLMs|  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Mar 4 | lecture 3: 2d | G3 | G11 |  |
-| Mar 6 | lecture 4: 3d | G11 | G10 |  |
-| Mar 11 | lecture 5: 2d & 3d | G7 | G6 |  |
+| Mar 4 | lecture 3: 2d |  |  |  |
+| Mar 6 | lecture 4: 3d |  |  |  |
+| Mar 11 | lecture 5: structure based drug design |  |  |  |
 | Mar 13 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
@@ -113,16 +113,15 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 25 | **Mid term presentation** |  |  |  |
 | Mar 27 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
 |  | **Protein Design** |  |  |  |
-| Apr 1 | Guest Lecture on Biomedical Agentic AI | | | |
-| Apr 3 | lecture 6: AlphaFold, protein folding | G1 | G4 |  |
-| Apr 8 | lecture 7: structure design | G5 | G8 |  |
-| Apr 10 | lecture 8: co-design | G9 | G5 |  |
+| Apr 1 | lecture 6: AlphaFold, protein folding |  |  |  |
+| Apr 3 | lecture 7: structure design |  |  |  |
+| Apr 8 | lecture 8: co-design |  |  |  |
+| Apr 10 | lecture 9: peptide and antibody design | | | |
 | Apr 15 | **Discussion on Protein design** |  |  |  |
-|  | **Complex-based Generation** |  |  |  |
-| Apr 17 | lecture 9: peptide and  antibody design |  |  |  |
-| Apr 22 | lecture 10: structure-based drug design | G4 | G7 | TA host, Instructor remote |
 |  | **RLHF and LLM Agent** |  |  |  |
-| Apr 24 | lecture 11: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
+| Apr 17 | lecture 10: RF-finetuing |  |  |  |
+| Apr 22 | lecture 11: Test-time scaling |  |  | TA host, Instructor remote |
+| Apr 24 | lecture 12: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
 | Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
