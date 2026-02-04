@@ -92,16 +92,16 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Jan 21 | Intro + Biology101 | Prof. Liu |  |  |
 | Jan 23 | Diffusion | Prof. Liu  |  |  |
 | Jan 28 | Diffusion|  Prof. Liu |  |  |
-| Jan 30 | Flow Models  | Prof. Liu  |  | Group Membership & Topic Preference Due |
+| Jan 30 | Flow Models  | Prof. Liu  |  |   |
 | Feb 4 | Geometric DL & Equivariance |  Prof. Liu |  |  |
-| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  |  |
+| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  | Group Membership & Topic Preference Due   |
 | Feb 11 | RL-finetuning and inference time scaling|  Prof. Liu |  |  |
 | Feb 13 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
-|  | **Language Model in Biomedicine** |  |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 20 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
-| Feb 25 | lecture 1: discrete generation |  | |  |
-| Feb 27 | lecture 2: discrete generation|  |  |  |
+|  | **Language Model in Biomedicine** |  |  |  |
+| Feb 25 | lecture 1: Protein and Genome Language Models |  | |  |
+| Feb 27 | lecture 2: Scientific LLMs|  |  |  |
 |  | **Molecule Generation** |  |  |  |
 | Mar 4 | lecture 3: 2d | G3 | G11 |  |
 | Mar 6 | lecture 4: 3d | G11 | G10 |  |
