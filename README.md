@@ -94,7 +94,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Jan 28 | Diffusion|  Prof. Liu |  |  |
 | Jan 30 | Flow Models  | Prof. Liu  |  |   |
 | Feb 4 | Geometric DL & Equivariance |  Prof. Liu |  |  |
-| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  | Group Membership & Topic Preference Due   |
+| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  | Group Membership & Topic Preference Due Feb 7 |
 | Feb 11 | RL-finetuning and inference time scaling|  Prof. Liu |  |  |
 | Feb 13 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
