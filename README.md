@@ -89,8 +89,8 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | **Date** | **Topic** | **Presenter** | **Reviewer** | **Note** |
 | --- | --- | --- | --- | --- |
 |  | **Course Introduction** |  |  |  |
-| Jan 21 | Intro + Biology101 | Prof. Liu |  |  |
-| Jan 23 | Diffusion | Prof. Liu  |  |  |
+| Jan 21 | Introduction | Prof. Liu |  |  |
+| Jan 23 | Biochemistry 101 | Prof. Liu  |  |  |
 | Jan 28 | Diffusion|  Prof. Liu |  |  |
 | Jan 30 | Flow Models  | Prof. Liu  |  |   |
 | Feb 4 | Geometric DL & Equivariance |  Prof. Liu |  |  |
