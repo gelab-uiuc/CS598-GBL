@@ -55,7 +55,7 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 
 **Pre-class Reading**
 
-- Group Assignment: Each paper-reading lecture will have several required readings and optional related readings.  Each group should read at least one of the papers and submit at least 1 insightful question or idea related to the paper you read here https://docs.google.com/spreadsheets/d/1Q-wPi2Ezbv0QJe8hN2tBNC15WmkPaquhuJqkT4p5bWk/edit?usp=sharing before the lecture.
+- Group Assignment: Each paper-reading lecture will have several required readings and optional related readings.  Each group should read at least one of the papers and submit at least 1 insightful question or idea related to the paper you read here https://docs.google.com/spreadsheets/d/16RmtZr8y6qD6E1IY4P7Hn2CCNEwcmKwTTJnjEYPqiws/edit?gid=0#gid=0 before the lecture.
 
 **In-class Discussion**
 
@@ -91,21 +91,21 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 |  | **Course Introduction** |  |  |  |
 | Jan 21 | Intro + Biology101 | Prof. Liu |  |  |
 | Jan 23 | Diffusion | Prof. Liu  |  |  |
-| Jan 28 | Flow Models |  Prof. Liu |  |  |
-| Feb 30 | Geometric DL & Equivariance | Prof. Liu  |  | Group Membership & Topic Preference Due |
-| Feb 4 | Diffusion Language Models |  Prof. Liu |  |  |
-| Feb 6 | Scientific LLMs and Agentic AI4science|  Prof. Liu |  |  |
+| Jan 28 | Diffusion|  Prof. Liu |  |  |
+| Jan 30 | Flow Models  | Prof. Liu  |  | Group Membership & Topic Preference Due |
+| Feb 4 | Geometric DL & Equivariance |  Prof. Liu |  |  |
+| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  |  |
 | Feb 11 | RL-finetuning and inference time scaling|  Prof. Liu |  |  |
-| Feb 13 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
+| Feb 13 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
-| Feb 18 | lecture 1: protein | G2 | G1 |  |
-| Feb 20 | lecture 2: protein & beyond | G6 | G3 |  |
-| Feb 25 | lecture 3: discrete generation | G10 | G2 |  |
-| Feb 27 | **Discussion for L1-L3** |  |  |  |
+| Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
+| Feb 20 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
+| Feb 25 | lecture 1: discrete generation |  | |  |
+| Feb 27 | lecture 2: discrete generation|  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Mar 4 | lecture 4: 2d | G3 | G11 |  |
-| Mar 6 | lecture 5: 3d | G11 | G10 |  |
-| Mar 11 | lecture 6: 2d & 3d | G7 | G6 |  |
+| Mar 4 | lecture 3: 2d | G3 | G11 |  |
+| Mar 6 | lecture 4: 3d | G11 | G10 |  |
+| Mar 11 | lecture 5: 2d & 3d | G7 | G6 |  |
 | Mar 13 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
@@ -114,15 +114,15 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 27 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
 |  | **Protein Design** |  |  |  |
 | Apr 1 | Guest Lecture on Biomedical Agentic AI | | | |
-| Apr 3 | lecture 7: AlphaFold, protein folding | G1 | G4 |  |
-| Apr 8 | lecture 8: structure design | G5 | G8 |  |
-| Apr 10 | lecture 9: co-design | G9 | G5 |  |
+| Apr 3 | lecture 6: AlphaFold, protein folding | G1 | G4 |  |
+| Apr 8 | lecture 7: structure design | G5 | G8 |  |
+| Apr 10 | lecture 8: co-design | G9 | G5 |  |
 | Apr 15 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
-| Apr 17 | lecture 10: peptide and  antibody design |  |  |  |
-| Apr 22 | lecture 11: structure-based drug design | G4 | G7 | TA host, Instructor remote |
+| Apr 17 | lecture 9: peptide and  antibody design |  |  |  |
+| Apr 22 | lecture 10: structure-based drug design | G4 | G7 | TA host, Instructor remote |
 |  | **RLHF and LLM Agent** |  |  |  |
-| Apr 24 | lecture 12: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
+| Apr 24 | lecture 11: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
 | Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
