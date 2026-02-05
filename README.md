@@ -106,7 +106,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 4 | lecture 3: 2d |  |  |  |
 | Mar 6 | lecture 4: 3d |  |  |  |
 | Mar 11 | lecture 5: structure based drug design |  |  |  |
-| Mar 13 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
+| Mar 13 | |RL-finetuning and inference time scaling | Prof. Liu   |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
 | Mar 20 | No Lecture |  |  |  |
