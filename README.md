@@ -93,12 +93,12 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Jan 23 | Biochemistry 101 | Prof. Liu  |  |  |
 | Jan 28 | Diffusion|  Prof. Liu |  |  |
 | Jan 30 | Flow Models  | Prof. Liu  |  |   |
-| Feb 4 | Geometric DL & Equivariance |  Prof. Liu |  |  |
-| Feb 6 | Diffusion Language Models and Protein Language models|  Prof. Liu |  | Group Membership & Topic Preference Due Feb 7 |
-| Feb 11 | RL-finetuning and inference time scaling|  Prof. Liu |  |  |
-| Feb 13 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
+| Feb 4 | Geometric DL & GNN I|  Prof. Liu |  |  |
+| Feb 6 | Geometric DL & GNN II|  Prof. Liu |  | Group Membership & Topic Preference Due Feb 7 |
+| Feb 11 | Diffusion Language Models and Protein Language models|  Prof. Liu |  |  |
+| Feb 13 | No Lecture / Brainstorm for project proposal and prepare presentation | Kexin |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
-| Feb 20 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
+| Feb 20 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
 | Feb 25 | lecture 1: Protein and Genome Language Models |  | |  |
 | Feb 27 | lecture 2: Scientific LLMs|  |  |  |
