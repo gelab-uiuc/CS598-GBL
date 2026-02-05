@@ -96,7 +96,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 4 | Geometric DL & GNN I|  Prof. Liu |  |  |
 | Feb 6 | Geometric DL & GNN II|  Prof. Liu |  | Group Membership & Topic Preference Due Feb 7 |
 | Feb 11 | Diffusion Language Models and Protein Language models|  Prof. Liu |  |  |
-| Feb 13 | No Lecture / Brainstorm for project proposal and prepare presentation | Kexin |  |  |
+| Feb 13 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 20 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
