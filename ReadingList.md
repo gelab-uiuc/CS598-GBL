@@ -1,0 +1,95 @@
+
+### Reading List
+
+paper lists:
+
+https://github.com/AspirinCode/papers-for-molecular-design-using-DL 
+
+https://github.com/amorehead/awesome-molecular-generation 
+
+https://github.com/lmqfly/Geometry-Deep-Learning-for-Drug-Discovery?tab=readme-ov-file#molecular-design
+
+https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file#2-model-based-design
+
+#### Diffusion
+
+Lilian’s blog: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+
+Yang Song’s blog: https://yang-song.net/blog/2021/score/
+
+Sohl-Dickstein, Jascha, et al. "Deep unsupervised learning using nonequilibrium thermodynamics." International conference on machine learning. PMLR, 2015.
+
+Song, Yang, and Stefano Ermon. "Generative modeling by estimating gradients of the data distribution." Advances in neural information processing systems 32 (2019).
+
+Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models." Advances in neural information processing systems 33 (2020): 6840-6851.
+
+Ho, Jonathan, and Tim Salimans. "Classifier-free diffusion guidance." arXiv preprint arXiv:2207.12598 (2022).
+
+Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in neural information processing systems 34 (2021): 8780-8794.
+
+#### Flow Models
+
+tutorial: https://neurips.cc/virtual/2024/tutorial/99531
+
+Rezende, Danilo, and Shakir Mohamed. "Variational inference with normalizing flows." International conference on machine learning. PMLR, 2015.
+
+Chen, Ricky TQ, et al. "Neural ordinary differential equations." Advances in neural information processing systems 31 (2018).
+
+Lipman, Yaron, et al. "Flow Matching for Generative Modeling." The Eleventh International Conference on Learning Representations.
+
+Liu, Xingchao, and Chengyue Gong. "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow." The Eleventh International Conference on Learning Representations.
+
+Chen, Ricky TQ, and Yaron Lipman. "Riemannian flow matching on general geometries." arXiv preprint arXiv:2302.03660 (2023).
+
+Gat, Itai, et al. "Discrete Flow Matching." The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+
+Stark, Hannes, et al. "Dirichlet Flow Matching with Applications to DNA Sequence Design." Forty-first International Conference on Machine Learning.
+
+Campbell, Andrew, et al. "Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design." Forty-first International Conference on Machine Learning.
+
+#### Latent Diffusion / VAE
+
+Lilian’s blog https://lilianweng.github.io/posts/2018-08-12-vae/
+
+tutorial: https://nips.cc/virtual/2023/tutorial/73957
+
+Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.
+
+Kingma, Diederik P. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+
+Van Den Oord, Aaron, and Oriol Vinyals. "Neural discrete representation learning." Advances in neural information processing systems 30 (2017).
+
+Razavi, Ali, Aaron Van den Oord, and Oriol Vinyals. "Generating diverse high-fidelity images with vq-vae-2." Advances in neural information processing systems 32 (2019).
+
+#### Language model in biomedicine
+
+**lecture1**
+
+
+
+**lecture2**
+
+#### Molecule Generation
+
+**lecture3**
+
+
+**lecture4**
+
+#### Protein Generation
+
+**lecture5**
+
+
+**lecture6**
+
+
+**lecture7**
+
+#### Agentic AI and RL-finetuning
+
+**lecture8**
+
+**lecture9**
+
+
