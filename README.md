@@ -98,7 +98,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 11 | Biological Language models|  Prof. Liu |  |  |
 | Feb 13 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
-| Feb 20 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
+| Feb 20 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin | Online |  |
 |  | **Language Model in Biomedicine** |  |  |  |
 | Feb 25 | lecture 1: Protein and Genome Language Models | G8 | |  |
 | Feb 27 | lecture 2: Scientific LLMs| G9 |  |  |
@@ -116,12 +116,12 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Apr 1 | lecture 5: AlphaFold, protein folding | G1 |  |  |
 | Apr 3 | lecture 6: structure design | G3 |  |  |
 | Apr 8 | lecture 7: co-design | G5 |  |  |
-| Apr 10 | Guest Lecture | | | |
+| Apr 10 | Guest Lecture | Online | | |
 | Apr 15 | LLM Agent | Prof.Liu |  |  |
 |  | **RLHF and LLM Agent** |  |  |  |
 | Apr 17 | lecture 8: RF-finetuing | G7 |  |  |
 | Apr 22 | lecture 9: LLM agent for autonomous science discovery| G4 |  | TA host, Instructor remote |
-| Apr 24 | Guest Lecture |  |  | TA host, Instructor remote, DLL for challenge submission |
+| Apr 24 | Guest Lecture | Online |  | TA host, Instructor remote, DLL for challenge submission |
 | Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
