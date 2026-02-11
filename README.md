@@ -102,10 +102,10 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 |  | **Language Model in Biomedicine** |  |  |  |
 | Feb 25 | lecture 1: Protein and Genome Language Models | G8 | |  |
 | Feb 27 | lecture 2: Scientific LLMs| G9 |  |  |
+| Mar 4 | Discrete Diffusion LLM | Prof.Liu  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Mar 4 | lecture 3: 2D&3D generation | G2 |  |  |
-| Mar 6 | lecture 4: Structure-based drug design | G6 |  |  |
-| Mar 11 | Discrete Diffusion LLM | Prof.Liu  |  |  |
+| Mar 6 | lecture 3: 2D&3D generation | G2 |  |  |
+| Mar 11 | lecture 4: Structure-based drug design | G6 |  |  |
 | Mar 13 | **Protein design primer & Hands on challenge overview** | Prof. Liu   |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
