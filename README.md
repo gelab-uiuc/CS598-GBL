@@ -95,7 +95,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Jan 30 | Flow Models  | Prof. Liu  |  |   |
 | Feb 4 | Geometric DL & GNN I|  Prof. Liu |  |  |
 | Feb 6 | Geometric DL & GNN II|  Prof. Liu |  | Group Membership & Topic Preference Due Feb 7 |
-| Feb 11 | Diffusion Language Models and Protein Language models|  Prof. Liu |  |  |
+| Feb 11 | Biological Language models|  Prof. Liu |  |  |
 | Feb 13 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 18 | No Lecture / Brainstorm for project proposal and prepare presentation |  |  |  |
 | Feb 20 | Guest Lecture: Biomni, Scientific LLMs and Agentic AI4science | Kexin |  |  |
@@ -103,25 +103,25 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 25 | lecture 1: Protein and Genome Language Models |  | |  |
 | Feb 27 | lecture 2: Scientific LLMs|  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Mar 4 | lecture 3: 2d |  |  |  |
-| Mar 6 | lecture 4: 3d |  |  |  |
-| Mar 11 | lecture 5: structure based drug design |  |  |  |
-| Mar 13 | RL-finetuning and inference time scaling | Prof. Liu   |  | **Proposal Due mar 16** |
+| Mar 4 | lecture 3: 2D&3D generation |  |  |  |
+| Mar 6 | lecture 4: Structure-based drug design |  |  |  |
+| Mar 11 | Discrete Diffusion LLM | Prof.Liu  |  |  |
+| Mar 13 | **Protein design primer & Hands on challenge overview** | Prof. Liu   |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
 | Mar 20 | No Lecture |  |  |  |
 | Mar 25 | **Mid term presentation** |  |  |  |
-| Mar 27 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
+| Mar 27 | RL-finetuning and inference time scaling | Prof. Liu|  |  |
 |  | **Protein Design** |  |  |  |
-| Apr 1 | lecture 6: AlphaFold, protein folding |  |  |  |
-| Apr 3 | lecture 7: structure design |  |  |  |
-| Apr 8 | lecture 8: co-design |  |  |  |
-| Apr 10 | lecture 9: peptide and antibody design | | | |
-| Apr 15 | **Discussion on Protein design** |  |  |  |
+| Apr 1 | lecture 5: AlphaFold, protein folding |  |  |  |
+| Apr 3 | lecture 6: structure design |  |  |  |
+| Apr 8 | lecture 7: co-design |  |  |  |
+| Apr 10 | Guest Lecture | | | |
+| Apr 15 | LLM Agent | Prof.Liu |  |  |
 |  | **RLHF and LLM Agent** |  |  |  |
-| Apr 17 | lecture 10: RF-finetuing |  |  |  |
-| Apr 22 | lecture 11: Test-time scaling |  |  | TA host, Instructor remote |
-| Apr 24 | lecture 12: LLM agent for autonomous science discovery | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
+| Apr 17 | lecture 8: RF-finetuing |  |  |  |
+| Apr 22 | lecture 9: LLM agent for autonomous science discovery|  |  | TA host, Instructor remote |
+| Apr 24 | Guest Lecture | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
 | Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
