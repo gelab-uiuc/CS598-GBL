@@ -63,18 +63,32 @@ Razavi, Ali, Aaron Van den Oord, and Oriol Vinyals. "Generating diverse high-fid
 
 #### Language model in biomedicine
 
-**lecture1**
+**lecture1: Protein and Genome Language Models**
+- Simon E, Zou J. InterPLM: discovering interpretable features in protein language models via sparse autoencoders[J]. Nature methods, 2025, 22(10): 2107-2117.
+- Su J, Han C, Zhou Y, et al. Saprot: Protein language modeling with structure-aware vocabulary[J]. BioRxiv, 2023: 2023.10. 01.560349.
+- Wang, Xinyou, et al. "Dplm-2: A multimodal diffusion protein language model." *arXiv preprint arXiv:2410.13782* (2024).
+- Brixi G, Durrant M G, Ku J, et al. Genome modeling and design across all domains of life with Evo 2[J]. BioRxiv, 2025: 2025.02. 18.638918.
 
 
-
-**lecture2**
+**lecture2: Scientific LLMs**
+- Schwaller P, Probst D, Vaucher A C, et al. Mapping the space of chemical reactions using attention-based neural networks[J]. Nature machine intelligence, 2021, 3(2): 144-152.
+- Ross J, Belgodere B, Chenthamarakshan V, et al. Large-scale chemical language representations capture molecular structure and properties[J]. Nature Machine Intelligence, 2022, 4(12): 1256-1264.
+- Chang J, Ye J C. Bidirectional generation of structure and properties through a single molecular foundation model[J]. Nature Communications, 2024, 15(1): 2323.
+- Edwards C, Han C, Lee G, et al. mCLM: A Modular Chemical Language Model that Generates Functional and Makeable Molecules[J]. arXiv preprint arXiv:2505.12565, 2025.
 
 #### Molecule Generation
 
-**lecture3**
+**lecture3: 2d & 3d generation**
+- Vignac, Clement, et al. "DiGress: Discrete Denoising diffusion for graph generation." *The Eleventh International Conference on Learning Representations*.
+- Xu, Minkai, et al. "GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation." *International Conference on Learning Representations*.
+- Hoogeboom, Emiel, et al. "Equivariant diffusion for molecule generation in 3d." *International conference on machine learning*. PMLR, 2022.
+- Eijkelboom, Floor, et al. "Variational Flow Matching for Graph Generation." *arXiv preprint arXiv:2406.04843* (2024).
 
-
-**lecture4**
+**lecture4: Structure-based drug design**
+- Li, Jiahan, et al. "Full-Atom Peptide Design based on Multi-modal Flow Matching." Forty-first International Conference on Machine Learning.
+- Peng, Xingang, et al. "Pocket2mol: Efficient molecular sampling based on 3d protein pockets." International Conference on Machine Learning. PMLR, 2022.
+- Guan, Jiaqi, et al. "3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction." The Eleventh International Conference on Learning Representations.
+- Corso, Gabriele, et al. "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking." The Eleventh International Conference on Learning Representations.
 
 #### Protein Generation
 
