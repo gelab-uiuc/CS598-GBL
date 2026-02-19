@@ -6,7 +6,7 @@
 
 | **Member (NetID)** | **Role** | **Office Hours** |
 | --- | --- | --- |
-| Ge Liu (geliu) | Instructor | Thu 3:00-4:00 SC3212 |
+| Ge Liu (geliu) | Instructor | Thu 2:00-3:00 SC3212 |
 | Yanru Qu (yanruqu2) | TA | TBD |
 
 **Canvas**: https://canvas.illinois.edu/courses/68172
