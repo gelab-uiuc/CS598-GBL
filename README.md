@@ -105,8 +105,8 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 4 |  **Protein design primer & Hands on challenge overview**| Prof.Liu  |  |  |
 |  | **Molecule Generation** |  |  |  |
 | Mar 6 |  Discrete Diffusion LLM  | Prof. Liu  |  | |
-| Mar 11 | lecture 3: 2D&3D generation | G2 | G7 |  |
-| Mar 13 | lecture 4: Structure-based drug design | G6 | G4 | **Proposal Due mar 16** |
+| Mar 11 | lecture 3: Structure-based drug design | G6 | G4 |  |
+| Mar 13 | lecture 4: 2D&3D generation | G2 | G7 | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 18 | No Lecture |  |  |  |
 | Mar 20 | No Lecture |  |  |  |
