@@ -61,7 +61,7 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 
 - In each paper-reading lecture, 2 groups will be signed up as the main leaders of the discussion, with each group playing one of the 2 roles: **presenters** or **reviewers**. These 2 groups are required to submit assignments (see below). Other groups are encouraged to participate in class discussions. Throughout the semester, each group needs to sign up for each one of the roles once, totaling participation in 2 different subtopics.
 - Group Assignment for designated presenters and reviewers:
-    - For presenter: submit slides (at least 20 pages) for all required readings **before the lecture,** and present the papers **during the class (45 min presentation);** submit a rebuttal **within 6 days after the lecture**
+    - For presenter: submit slides (at least 20 pages) for all required readings **before the lecture,** and present the papers **during the class (45 min presentation);** submit a rebuttal **within 10 days after the reviews are available**
     - For reviewers: submit academic reviews about required readings by **EOD of the lecture**
 
 **Hands-on Experiments**
