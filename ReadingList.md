@@ -92,13 +92,24 @@ Razavi, Ali, Aaron Van den Oord, and Oriol Vinyals. "Generating diverse high-fid
 
 #### Protein Generation
 
-**lecture5**
+**lecture5: Protein Folding**
+- Abramson, Josh, et al. "Accurate structure prediction of biomolecular interactions with AlphaFold 3." *Nature* (2024): 1-3.
+- Lin Z, Akin H, Rao R, et al. Language models of protein sequences at the scale of evolution enable accurate structure prediction[J]. BioRxiv, 2022, 2022: 500902.
+- Passaro S, Corso G, Wohlwend J, et al. Boltz-2: Towards accurate and efficient binding affinity prediction[J]. BioRxiv, 2025.
+- Wang Y, Lu J, Jaitly N, et al. Simplefold: Folding proteins is simpler than you think[J]. arXiv preprint arXiv:2509.18480, 2025.
+
+**lecture6: Structure Design**
+- Yim, Jason, et al. "Fast protein backbone generation with SE (3) flow matching." *arXiv preprint arXiv:2310.05297* (2023).
+- Ahern W, Yim J, Tischer D, et al. Atom-level enzyme active site scaffolding using RFdiffusion2[J]. Nature Methods, 2025: 1-10.
+- Geffner T, Didi K, Zhang Z, et al. Proteina: Scaling flow-based protein structure generative models[J]. arXiv preprint arXiv:2503.00710, 2025.
+- Lin H, Zhang O, Zhao H, et al. Ppflow: Target-aware peptide design with torsional flow matching[J]. arXiv preprint arXiv:2405.06642, 2024.
 
 
-**lecture6**
-
-
-**lecture7**
+**lecture7: Co-design**
+- Geffner T, Didi K, Cao Z, et al. La-proteina: Atomistic protein generation via partially latent flow matching[J]. arXiv preprint arXiv:2507.09466, 2025.
+- Cho Y, Pacesa M, Zhang Z, et al. Boltzdesign1: Inverting all-atom structure prediction model for generalized biomolecular binder design[J]. BioRxiv, 2025: 2025.04. 06.647261.
+- Li J, Cheng C, Wu Z, et al. Full-atom peptide design based on multi-modal flow matching[J]. arXiv preprint arXiv:2406.00735, 2024.
+- Qu W, Ma Y, Ye F, et al. SeedProteo: Accurate De Novo All-Atom Design of Protein Binders[J]. arXiv preprint arXiv:2512.24192, 2025.
 
 #### Agentic AI and RL-finetuning
 
