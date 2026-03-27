@@ -111,17 +111,17 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 18 | No Lecture |  |  |  |
 | Mar 20 | No Lecture |  |  |  |
 | Mar 25 | **Mid term presentation** |  |  |  |
-| Mar 27 | RL-finetuning and inference time scaling | Prof. Liu|  |  |
+| Mar 27 | Steering Generative Models | Prof. Liu|  |  |
 |  | **Protein Design** |  |  |  |
 | Apr 1 | lecture 5: AlphaFold, protein folding | G1 | G8 |  |
 | Apr 3 | lecture 6: structure design | G3 | G9 |  |
 | Apr 8 | lecture 7: co-design | G5 | G2 |  |
-| Apr 10 | Guest Lecture on protein design| Online | | |
-| Apr 15 | LLM Agent | Prof.Liu |  |  |
+| Apr 10 | Guest Lecture on protein design| Online | Jiaqi Guan | |
+| Apr 15 | RL-finetuning | Prof.Liu |  |  |
 |  | **RLHF and LLM Agent** |  |  |  |
-| Apr 17 | lecture 8: RF-finetuing | G7 | G6 |  |
-| Apr 22 | lecture 9: LLM agent for autonomous science discovery| G4 | G1 | |
-| Apr 24 | Guest Lecture| Online |  | DLL for challenge submission |
+| Apr 17 | LLM Agent | Prof.Liu |  |  |
+| Apr 22 | lecture 8: RF-finetuing | G7 | G6 | |
+| Apr 24 | lecture 9: LLM agent for autonomous science discovery| G4 | G1| DLL for challenge submission |
 | Apr 29 | No Lecture / Work on Final Presentation |  |  |  |
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
