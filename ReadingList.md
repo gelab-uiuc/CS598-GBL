@@ -113,8 +113,15 @@ Razavi, Ali, Aaron Van den Oord, and Oriol Vinyals. "Generating diverse high-fid
 
 #### Agentic AI and RL-finetuning
 
-**lecture8**
+**lecture8: RL-finetuing**
+- Park, Ryan, et al. "Improving Inverse Folding for Peptide Design with Diversity-regularized Direct Preference Optimization." arXiv preprint arXiv:2410.19471 (2024).
+- Wang, Chenyu, et al. "Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design." NeurIPS 2024 Workshop on AI for New Drug Modalities.
+- Zhou, Xiangxin, et al. "Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization." arXiv preprint arXiv:2403.16576 (2024).
+- Ren, Milong, ZaiKai He, and Haicang Zhang. "Multi-objective antibody design with constrained preference optimization." *The Thirteenth International Conference on Learning Representations*. 2025.
 
-**lecture9**
-
+**lecture9: LLM agent for autonomous science discovery**
+- Swanson, Kyle, et al. "The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies." *Nature* 646.8085 (2025): 716-723.
+- Ghafarollahi, Alireza, and Markus J. Buehler. "Sparks: Multi-agent artificial intelligence model discovers protein design principles." *arXiv preprint arXiv:2504.19017* (2025).
+- Novikov, Alexander, et al. "Alphaevolve: A coding agent for scientific and algorithmic discovery." *arXiv preprint arXiv:2506.13131* (2025).
+- Huang, Kexin, et al. "Biomni: A general-purpose biomedical ai agent." *biorxiv* (2025).
 
