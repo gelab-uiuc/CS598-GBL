@@ -126,7 +126,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | May 1 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
 | May 6 |  |  |  |  |
-| May 15 |  |  |  | Final Report due |
+| May 13 |  |  |  | Final Report due |
 
 ### Reading List
 
